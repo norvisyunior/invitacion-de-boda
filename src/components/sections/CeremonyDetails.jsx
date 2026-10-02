@@ -156,13 +156,13 @@ export default function CeremonyDetails({ weddingData }) {
                       </div>
 
                       <div className="min-w-0">
-                        <p className="text-[0.65rem] font-semibold uppercase tracking-[0.2em] text-olive">
+                        <p className="text-[0.65rem] font-semibold uppercase tracking-[0.2em] text-olive-dark">
                           Punto de encuentro
                         </p>
                         <p className="mt-1 font-display text-lg tracking-wide text-charcoal tabular-nums">
                           {coordsLabel}
                         </p>
-                        <p className="mt-0.5 text-xs text-charcoal/70">
+                        <p className="mt-0.5 text-xs text-charcoal/90">
                           Coordenadas GPS del lugar de la celebración
                         </p>
                       </div>
@@ -194,7 +194,7 @@ export default function CeremonyDetails({ weddingData }) {
                 </div>
               </div>
 
-              <p className="mt-4 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-charcoal/65">
+              <p className="mt-4 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-charcoal/85">
                 <Clock size={14} aria-hidden="true" />
                 <span>
                   Hora local en {date?.timezoneLabel || 'Matanzas, Cuba'}.
