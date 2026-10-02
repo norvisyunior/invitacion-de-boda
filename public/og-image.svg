@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Invitación de boda de Norvis e Isabela">
+  <rect width="1200" height="630" fill="#FAF9F5"/>
+  <rect x="40" y="40" width="1120" height="550" fill="none" stroke="#E5E1D8" stroke-width="2"/>
+  <rect x="56" y="56" width="1088" height="518" fill="none" stroke="#DCE0D0" stroke-width="1"/>
+
+  <!-- Ramas de olivo esquinas -->
+  <g fill="none" stroke="#68734B" stroke-width="2" stroke-linecap="round">
+    <path d="M90 120 C140 150, 170 200, 180 260"/>
+    <path d="M110 160 C130 170, 150 175, 170 170"/>
+    <path d="M130 200 C150 210, 165 215, 185 208"/>
+    <path d="M150 240 C165 255, 175 265, 180 275"/>
+    <path d="M1110 120 C1060 150, 1030 200, 1020 260"/>
+    <path d="M1090 160 C1070 170, 1050 175, 1030 170"/>
+    <path d="M1070 200 C1050 210, 1035 215, 1015 208"/>
+    <path d="M1050 240 C1035 255, 1025 265, 1020 275"/>
+  </g>
+  <g fill="#DCE0D0" stroke="#68734B" stroke-width="1">
+    <ellipse cx="125" cy="175" rx="10" ry="5" transform="rotate(-30 125 175)"/>
+    <ellipse cx="148" cy="215" rx="10" ry="5" transform="rotate(-20 148 215)"/>
+    <ellipse cx="162" cy="252" rx="9" ry="4.5" transform="rotate(-10 162 252)"/>
+    <ellipse cx="1075" cy="175" rx="10" ry="5" transform="rotate(30 1075 175)"/>
+    <ellipse cx="1052" cy="215" rx="10" ry="5" transform="rotate(20 1052 215)"/>
+    <ellipse cx="1038" cy="252" rx="9" ry="4.5" transform="rotate(10 1038 252)"/>
+  </g>
+
+  <text x="600" y="210" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="8" fill="#68734B">NOS CASAMOS</text>
+  <line x1="480" y1="240" x2="720" y2="240" stroke="#E5E1D8" stroke-width="1"/>
+  <text x="600" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#38392F">Isabela &amp; Norvis</text>
+  <text x="600" y="400" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#68734B">Una invitación especial</text>
+  <line x1="520" y1="440" x2="680" y2="440" stroke="#E5E1D8" stroke-width="1"/>
+  <text x="600" y="490" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" fill="#38392F">Toca el sobre para abrirla</text>
+
+  <circle cx="600" cy="120" r="28" fill="none" stroke="#68734B" stroke-width="1.5"/>
+  <text x="600" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#454D35">I&amp;N</text>
+</svg>
