@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { motion } from 'motion/react';
+import { Analytics } from '@vercel/analytics/react';
 import weddingData from './data/wedding.js';
 import WeddingEnvelope from './components/envelope/WeddingEnvelope.jsx';
 import HeroSection from './components/sections/HeroSection.jsx';
@@ -78,6 +79,8 @@ export default function App() {
         <DressCodeSection weddingData={weddingData} />
         <ClosingSection weddingData={weddingData} />
       </motion.main>
+      
+      <Analytics />
     </div>
   );
 }
