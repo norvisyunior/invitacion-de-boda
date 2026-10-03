@@ -148,7 +148,7 @@ export const wedding = {
     title: 'Nos casamos · Invitación de boda',
     text: 'Tienes una invitación especial. Toca el sobre para abrirla.',
     // URL pública definitiva cuando se publique la web
-    url: 'https://example-wedding.pages.dev/',
+    url: 'https://invitacion-de-boda-nu.vercel.app/',
   },
 
   /** WhatsApp — dejar vacío si no se configura */
